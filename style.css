@@ -1,8 +1,12 @@
 *{box-sizing: border-box;}
 h1{text-align: center;}
 p{background-color: gray;
-padding: 20px:;}
-.row > div {text-align: center; font-size: 2em;
-margin:10px;}
-.container {margin:15px;}
+padding: 20px;}
+.row > div {text-align: center; font-size: 2em;}
+
+/** Header**/
+#header-nav{background-color: gray;}
+.navbar-brand span {color: black;
+font-size: 1,5em; }
+
 
