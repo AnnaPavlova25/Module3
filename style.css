@@ -1,7 +1,8 @@
-
+*{box-sizing: border-box;}
 h1{text-align: center;}
 p{background-color: gray;
-padding: 20px;
-margin-left: 15px; margin-right: 15px;}
-.row > div {text-align: center; font-size: 2em}
+padding: 20px:;}
+.row > div {text-align: center; font-size: 2em;
+margin:10px;}
+.container {margin:15px;}
 
